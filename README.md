@@ -3,6 +3,8 @@
  - 🔭 Studying Frontend Mobile Development at Høyskolen Kristiania, Oslo
 
  - 🌱 Currently learning SwiftUI and TypeScript
+   
+---
 
 ### :hammer_and_wrench: Languages
 <div>
