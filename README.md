@@ -4,6 +4,7 @@
 
 🌱 Currently learning SwiftUI and TypeScript
 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40"
 <!--
 **AndersCoding/AndersCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
