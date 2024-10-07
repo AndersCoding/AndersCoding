@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+🔭 Studying Frontend Mobile Development at Høyskolen Kristiania, in Oslo
+
+🌱 Currently learning SwiftUI and TypeScript
+
 <!--
 **AndersCoding/AndersCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
