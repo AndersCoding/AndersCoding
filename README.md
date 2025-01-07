@@ -2,7 +2,7 @@
 
  - 🔭 Studying Frontend Mobile Development at Høyskolen Kristiania, Oslo
 
- - 🌱 Currently learning SwiftUI and TypeScript
+ - 🌱 Currently working on a bachelor for Nautilus Sjø, creating a sea-safety app
    
 ---
 
