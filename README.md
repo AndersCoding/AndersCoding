@@ -1,8 +1,8 @@
 ## Hi there 👋
 
- - 🔭 Studying Frontend Mobile Development at Høyskolen Kristiania, Oslo
+ - 🔭 Just finished a bachelor's degree in Frontend Mobile Development at Høyskolen Kristiania, Oslo
 
- - 🌱 Currently working on a bachelor for Nautilus Sjø, creating a sea-safety app
+ - 🌱 Open to work!
    
 ---
 
