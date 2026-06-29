@@ -1,6 +1,6 @@
 ## Hi there 👋
 
- - 🔭 Just finished a bachelor's degree in Frontend Mobile Development at Høyskolen Kristiania, Oslo
+ - 🔭 Frontend & Mobile Development graduate from Kristiania University College, building full-stack skills with Spring Boot and AWS. Passionate about modern software development, AI, and cloud technologies.
 
  - 🌱 Open to work!
    
