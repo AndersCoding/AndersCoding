@@ -2,7 +2,7 @@
 
  - 🔭 Fullstack Developer graduate from Kristiania University College, building full-stack skills with Spring Boot and AWS. Passionate about modern software development, AI, and cloud technologies.
 
- - 🌱 Open to work!
+ - Currently working as a fullstack developer at Fazile.
    
 ---
 
